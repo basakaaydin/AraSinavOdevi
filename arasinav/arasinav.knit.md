@@ -44,11 +44,16 @@ biblio-style: apalike
 
 # Giriş
  Yapmış olduğum bu çalışmada araştırma sorum yıllık gelirdeki değişimleri etkileyen faktörler nelerdir sorusuna dayanmaktadır.Araştırmama dair kullandığım veri setini UCI Machine Learning Repository sitesi üzerinden aldım.Bu veri seti nüfus sayımı verilerine dayanarak yıllık gelirin 50.000$'ı aşıp aşmadığını incelemektedir.Veri setim toplam 14 değişken ve 48.842 gözlem içermektedir.Değişkenler age,workclass,fnlwgt,education,education-num,marital-status,occupation,
-relationship,race,sex,capital gain,capital loss,hours per week,native country'den oluşmaktadır. 
+ relationship,race,sex,capital gain,capital loss,hours per week,native country'den oluşmaktadır. 
 
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+ Bu araştırmada yaş,etnik grup,cinsiyet,eğitim,medeni hali gibi değişkenlerine göre gelirin farklılık gösterip göstermediği incelenmiştir.
+ 
+ Birçok ülke,kurum ve kuruluşlar iş dünyasında ayrım yapmaksızın fırsat eşitliğine yönelik çeşitli hükümlerde bulunsa da iş hayatında dolayısıyla ücretlerde çok bariz farklılıklar bulunmaktadır.
+ 
+ Bu farklılıkların hangi değişkenlerden kaynaklandığını tespit ederek,yorumlayıp,bir bakış açısı oluşturup,çözümler sunabilmek bu çalışmanın amacıdır.
+
 
 ## Literatür 
 Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
