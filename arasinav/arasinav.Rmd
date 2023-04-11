@@ -34,15 +34,6 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 [^1]: 21080560, [Github Repo](https://github.com/basakaaydin/arasinavodevi)
 
-# Vize Hakkında Önemli Bilgiler
-
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
  Yapmış olduğum bu çalışmada araştırma sorum yıllık gelirdeki değişimleri etkileyen faktörler nelerdir sorusuna dayanmaktadır.Araştırmama dair kullandığım veri setini UCI Machine Learning Repository sitesi üzerinden aldım.Bu veri seti nüfus sayımı verilerine dayanarak yıllık gelirin 50.000$'ı aşıp aşmadığını incelemektedir.Veri setim toplam 14 değişken ve 48.842 gözlem içermektedir.Değişkenler age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital gain,capital loss,hours per week,native country'den oluşmaktadır. 
